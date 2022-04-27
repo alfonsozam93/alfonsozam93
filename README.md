@@ -1,4 +1,4 @@
-### Hola! Hello! 👋 !
+### Hola, Hello, 👋 !
 
 
 - 🔭 I’m currently working on MetricQL, a GraphQL migration assistance tool that prototypes GraphQL code
@@ -7,3 +7,5 @@
 - 📫 How to reach me: alfonsozam93@gmail.com
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: Proud plant dad 👨🏻‍🍼🌱 - currently own 15 plants!
+
+### Where to find me
